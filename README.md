@@ -170,6 +170,6 @@ I am open to collaborations in:
 
 ### 🔐 Secure Systems • Smart Networks • Future Computing
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![](https://komarev.com/ghpvc/?username=Dipnarayan&color=blue)
 
 </div>

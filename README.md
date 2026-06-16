@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 ## 🚀 About work
 
 I work at the intersection of Cybersecurity, Hardware Security, IoT, and AI. My projects include AI-based pneumonia diagnosis, gesture-controlled systems, augmented reality applications, computer network optimization, smart speed management systems, hardware security solutions, and secure IoT architectures. I utilize Kaggle to explore datasets, build reproducible experiments, and share practical solutions that bridge research and real-world applications. My technical stack includes Python, C, C++, Java, JavaScript, Verilog, TensorFlow, OpenCV, Flask, Angular, Node.js, SQL, FPGA, Raspberry Pi, Arduino, Scyther, and Machine Learning frameworks.

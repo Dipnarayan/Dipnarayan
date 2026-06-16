@@ -71,8 +71,6 @@ Hi, I am Dipnarayan, a Research Scholar (Ph.D.) in the Department of Computer Sc
 
 <div align="center">
 
-### 🔐 Secure Systems • Smart Networks • Future Computing
-
-![](https://komarev.com/ghpvc/?username=Dipnarayan&color=blue)
+# ![](https://komarev.com/ghpvc/?username=Dipnarayan&color=blue)
 
 </div>

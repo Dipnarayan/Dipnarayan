@@ -2,15 +2,13 @@
 
 # 👋 Hi, I'm Dipnarayan Das
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=C-DOT+STAR+Fellow+(Ph.D.);Fog+Computing+%26+IoT+Security+Enthusiast;Open+Source+Contributor;IEEE+Reviewer;Building+Secure+Future+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=C-DOT+STAR+Fellow+(Ph.D.);at Dept. of CSE, IIT (ISM) Dhanbad;Open+Source+Contributor;IEEE+Reviewer;Building+Secure+Future+Systems"/>
 
 </div>
 
----
+## 🚀 About work
 
-## 🚀 About Me
-
-Hi, I am Dipnarayan, a Research Scholar (Ph.D.) in the Department of Computer Science and Engineering at IIT (ISM) Dhanbad, India.  I work at the intersection of Cybersecurity, Hardware Security, IoT, and AI. My projects include AI-based pneumonia diagnosis, gesture-controlled systems, augmented reality applications, computer network optimization, smart speed management systems, hardware security solutions, and secure IoT architectures. I utilize Kaggle to explore datasets, build reproducible experiments, and share practical solutions that bridge research and real-world applications. My technical stack includes Python, C, C++, Java, JavaScript, Verilog, TensorFlow, OpenCV, Flask, Angular, Node.js, SQL, FPGA, Raspberry Pi, Arduino, Scyther, and Machine Learning frameworks.
+I work at the intersection of Cybersecurity, Hardware Security, IoT, and AI. My projects include AI-based pneumonia diagnosis, gesture-controlled systems, augmented reality applications, computer network optimization, smart speed management systems, hardware security solutions, and secure IoT architectures. I utilize Kaggle to explore datasets, build reproducible experiments, and share practical solutions that bridge research and real-world applications. My technical stack includes Python, C, C++, Java, JavaScript, Verilog, TensorFlow, OpenCV, Flask, Angular, Node.js, SQL, FPGA, Raspberry Pi, Arduino, Scyther, and Machine Learning frameworks.
 
 ## 🛠️ Tech Stack
 

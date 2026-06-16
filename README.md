@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Dipnarayan Das
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=C-DOT+STAR+Fellow+(Ph.D.);at Dept.+of+CSE,+IIT+(ISM)+Dhanbad;"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=C-DOT+STAR+Fellow+(Ph.D.);at Dept.+of+CSE,+IIT+(ISM)+Dhanbad"/>
 
 </div>
 

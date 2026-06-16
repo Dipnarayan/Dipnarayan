@@ -15,58 +15,7 @@
 
 Hi, I am Dipnarayan, a Research Scholar (Ph.D.) in the Department of Computer Science and Engineering at IIT (ISM) Dhanbad, India.  I work at the intersection of Cybersecurity, Hardware Security, IoT, and AI. My projects include AI-based pneumonia diagnosis, gesture-controlled systems, augmented reality applications, computer network optimization, smart speed management systems, hardware security solutions, and secure IoT architectures. I utilize Kaggle to explore datasets, build reproducible experiments, and share practical solutions that bridge research and real-world applications. My technical stack includes Python, C, C++, Java, JavaScript, Verilog, TensorFlow, OpenCV, Flask, Angular, Node.js, SQL, FPGA, Raspberry Pi, Arduino, Scyther, and Machine Learning frameworks.
 
-I am a **PhD Research Scholar in Computer Science & Engineering at IIT (ISM) Dhanbad** and a **C-DOT STAR Fellow**, working on:
 
-🔐 Hardware Security
-
-🌐 Fog Computing Security
-
-📡 Internet of Things (IoT)
-
-🧠 Artificial Intelligence & Machine Learning
-
-⚡ Physical Unclonable Functions (PUFs)
-
-🛡️ Authentication & Key Exchange Protocols
-
-I also serve as:
-
-- 👨‍🏫 Teaching Assistant at IIT (ISM)
-- 📝 Reviewer for IEEE & Elsevier Journals
-- 🎤 Cyber Safety Awareness Trainer
-
----
-
-## 📊 Research Snapshot
-
-| Metric | Value |
-|----------|----------|
-| Publications | 20+ |
-| Patents | 6+ |
-| Citations | 75+ |
-| h-index | 5 |
-| Conferences | 12+ |
-| Awards | 10+ |
-| Students Taught | 1000+ |
-| Open Source Projects | Multiple |
-
----
-
-## 🔬 Current Research
-
-```text
-Security Enhancement in Fog Computing
-│
-├── PUF-Based Authentication
-├── Hardware Security
-├── Secure IoT Architectures
-├── Lightweight Cryptography
-├── Edge/Fog Computing
-├── AI-Driven Security Systems
-└── Privacy-Preserving Networks
-```
-
----
 
 ## 🛠️ Tech Stack
 
@@ -97,60 +46,14 @@ Security Enhancement in Fog Computing
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 
----
-
-## 🏆 Highlights
-
-🥇 C-DOT STAR Fellowship Recipient
-
-🏛️ PhD Scholar at IIT (ISM) Dhanbad
-
-📜 Multiple Granted Patents
-
-📚 IEEE & Elsevier Reviewer
-
-🏅 Innovator Award Winner
-
-🎓 UGC-NET Qualified
-
-🎯 GATE Qualified
-
----
 
 ## 📈 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dipnarayan&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipnarayan&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
-
----
-
-## 📚 Featured Research Areas
-
-- Hardware Security
-- Physical Unclonable Functions (PUFs)
-- Fog Computing
-- IoT Security
-- Edge Computing
-- AI for Cybersecurity
-- Authentication Protocols
-- Evolutionary Optimization
-- Network Security
-
----
-
-## 🤝 Collaboration
-
-I am open to collaborations in:
-
-- Research Projects
-- IEEE Publications
-- Security Framework Development
-- Open Source Security Tools
-- AI + Cybersecurity Applications
-- Industry-Academia Partnerships
 
 ---
 
